@@ -23,4 +23,4 @@
 
 ## 🔗 Contacts
 - TG: @revenant_ops
-- GitHub: github.com/revenant-dev
+- GitHub: github.com/revenant-lab
